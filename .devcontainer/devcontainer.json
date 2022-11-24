@@ -1,0 +1,8 @@
+{
+  "name": "OchaCaml devcontainer",
+  "build": {
+  	"dockerfile": "Dockerfile",
+  	"context": ".."
+  },
+  "remoteUser": "vscode"
+}
